@@ -26,6 +26,6 @@ Then now its followed by this
 <br/>
 ![](assets/1.gif)
 
-Settings can be done in this seperate window
+Settings can be done in this separate window
 <br/>
 ![](assets/2.gif)
