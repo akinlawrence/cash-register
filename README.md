@@ -1,4 +1,4 @@
-# cashregister_public
+# Cash register
 ### About the app
 
 This app was created as a simple demo for what cafes and other small companies could be using for their customers to manage their money exchanges. It simplifies the math needed by the cashier so that they do not need to do a lot of thinking while being tired. This app is mainly written in Angular using other tools along it.
