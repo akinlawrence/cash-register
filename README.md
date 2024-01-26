@@ -3,14 +3,14 @@
 
 This app was created as a simple demo for what cafes and other small companies could be using for their customers to manage their money exchanges. It simplifies the math needed by the cashier so that they do not need to do a lot of thinking while being tired. This app is mainly written in Angular using other tools along it.
 
-##Features
-####Manager 
+## Features
+#### Manager 
 * Change password 
 * receipt history
 * lock, and add custom options to pressable items
 * And much more...
 
-####General
+#### General
 * Can create a printable pdf file that the application will send to the printer
 * Buttons in the screen can be clicked so that the use for touch would be possible
 * Can send a signal to open physical cash box
