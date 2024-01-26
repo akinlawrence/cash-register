@@ -18,6 +18,11 @@ This app was created as a simple demo for what cafes and other small companies c
 * And much more...
 
 ## How the app looks
+This is how it iniatially looks asking for password
 ![](assets/1.png)
+
+Then now its follow by this
 ![](assets/1.gif)
+
+Settings can be done in this seperate window
 ![](assets/2.gif)
