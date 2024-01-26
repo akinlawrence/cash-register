@@ -22,7 +22,7 @@ This is how it iniatially looks asking for password
 <br/>
 ![](assets/1.png)
 
-Then now its follow by this
+Then now its followed by this
 <br/>
 ![](assets/1.gif)
 
