@@ -19,10 +19,13 @@ This app was created as a simple demo for what cafes and other small companies c
 
 ## How the app looks
 This is how it iniatially looks asking for password
+<br/>
 ![](assets/1.png)
-<br/>
+
 Then now its follow by this
-![](assets/1.gif)
 <br/>
+![](assets/1.gif)
+
 Settings can be done in this seperate window
+<br/>
 ![](assets/2.gif)
